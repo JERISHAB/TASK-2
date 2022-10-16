@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:#06b6f647;
+}
+
+.header{
+    background: #242582;
+    padding: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color:white;
+    height: 60px;
+}
+.logo{
+    margin-left: 20px;
+    float: left;
+}
+
+.clgimg{
+    height: 40%;
+    width: 40%;
+    
+}
+
+
+
+.clgname{
+    margin: left;
+    text-align: center;
+        }
+
+.img2{
+    width: 100%;
+    height: 650px;
+} 
+.main{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #242582;
+}
+.para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #553d67;
+}
+
+.redirect{
+    background: #f64c72;
+    border-radius: 30px;
+    margin-right: 1337px;
+    padding: 1%;
+}
+

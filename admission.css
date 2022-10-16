@@ -1,0 +1,84 @@
+.container{
+    background-image:url(jerry.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: cover;
+    height: 200vh;
+    opacity: .8;   
+}
+.header{
+    background: rgba(8, 44, 204, 0.471);
+    padding: 15px;
+
+
+}
+.heading{
+    background: rgb(255, 255, 255);
+    
+}
+.top1{
+    float :left;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-right: 12px;
+    padding: 9px
+}
+.top2{
+    float:left ;
+    background: rgb(0, 0, 0);
+    color: white;
+    margin-right: 11px;
+    padding: 9px;
+    
+}
+.top3{
+    float: left;
+    background:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 9px;
+    margin-right: 11px;
+}
+.top4{
+    float: left;
+    background:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 9px;
+    margin-right: 11px;
+}
+.top5{
+    float: left;
+    background:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 9px;
+    margin-right: 11px;
+}
+
+
+.body{
+    background: #242682b6;
+    margin: 6%;
+    width: 25%;
+    height: 500px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 60px;
+    text-align: left;
+
+  }
+  .font{
+    color: white;
+    font-size:larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .forums{
+    font-size: larger;
+    color:#f64c72;
+  }
+  .button{
+    background: #000000;
+    color: rgb(255, 255, 255);
+    height: 20px;
+    border-color: #ffffff;
+    cursor: pointer;
+  }
+  
